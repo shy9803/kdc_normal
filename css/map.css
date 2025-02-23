@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* map.css */
+
+#map {
+  width:100%;
+  height:350px;
+}
+
+/* 인포윈도우 표출될 내용 */
+#info_w {
+  padding:5px;
+}
